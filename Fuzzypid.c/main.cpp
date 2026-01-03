@@ -32,4 +32,5 @@ int main()
         erro_c= erro - erro_pre;
         std::cout << "i:" << i << "\t" << "Target:" << Target << "\t" << "Actual:" << actual  << std::endl;
     }
+    return 0;
 }
